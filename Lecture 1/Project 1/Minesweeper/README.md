@@ -3,7 +3,7 @@
 
 Write an AI to play Minesweeper.
 
-![Minesweeper Game](game.png)
+![Minesweeper Game](images/game.png)
 
 [When to Do It](#when-to-do-it)
 -------------------------------
